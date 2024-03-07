@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+.DS_*
+logs
+**/*.backup.*
+**/*.back.*
+build
+
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
